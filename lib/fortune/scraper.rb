@@ -1,0 +1,4 @@
+class Fortune::CLI
+
+
+end
